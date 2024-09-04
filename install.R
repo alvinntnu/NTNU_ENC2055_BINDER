@@ -21,5 +21,4 @@ install.packages("tidyr")
 install.packages("tidytext")
 install.packages("tidyverse")
 install.packages("devtools")
-devtools::install_github("jcrodriguez1989/chatgpt")
 
